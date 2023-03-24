@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/website_react/static/css/main.073c9b0a.css",
+    "main.js": "/website_react/static/js/main.a6a6ce40.js",
+    "static/media/kids.webp": "/website_react/static/media/kids.ed80603e41977932dacb.webp",
+    "index.html": "/website_react/index.html",
+    "main.073c9b0a.css.map": "/website_react/static/css/main.073c9b0a.css.map",
+    "main.a6a6ce40.js.map": "/website_react/static/js/main.a6a6ce40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a6a6ce40.js"
+  ]
+}

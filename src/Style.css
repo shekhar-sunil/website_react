@@ -56,7 +56,7 @@
     color:blue;
     font-size:30px
 }
-.image_animation
+.image_animation1
 {
     animation:up-down 2s ease-in-out infinite alternate-reverse both;
 }
@@ -83,7 +83,7 @@
     }
     
 }
-.image_animation
+.image_animation2
 {
     animation:up-down 2s ease-in-out infinite alternate-reverse both;
 }

@@ -22,11 +22,12 @@ const Navbar=()=>{
         <li className="nav-item">
           <NavLink className="nav-link" to="/About">About</NavLink>
         </li>
-        <li className="nav-item">
-          <NavLink className="nav-link" to="/Contact">Contact</NavLink>
-        </li>
+        
         <li className="nav-item">
           <NavLink className="nav-link" to="/Services">Services</NavLink>
+        </li>
+        <li className="nav-item">
+          <NavLink className="nav-link" to="/Contact">Contact</NavLink>
         </li>
         <li className="nav-item dropdown">
           <NavLink className="nav-link dropdown-toggle" to="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

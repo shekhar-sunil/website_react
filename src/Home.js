@@ -9,6 +9,7 @@ const Home=()=>
         <div className="container-fluid nav-bg">
           <div className="row">
             <div className="col-10 mx-auto">
+              <div class="row">
               <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1">
                 <h1 className="">
                   Learn Programming with <span>Sunil</span>
@@ -23,10 +24,11 @@ const Home=()=>
                 </div>
               </div>
               <div className="col-lg-6 order-1 order-lg-2 header-">
-                <img src={web} className="img-fluid animated" alt="image1"></img>
+                <img src={web} className="image_animation1" alt="image1"></img>
                 </div>
             </div>
           </div>
+        </div>
         </div>
       </section>
       </>

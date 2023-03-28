@@ -8,6 +8,7 @@ const Services=()=> {
         <div className="container-fluid nav-bg">
           <div className="row">
             <div className="col-10 mx-auto">
+              <div class="row">
               <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1">
                 <h1 className="">
                   C,C++,Java, MySQL/MongoDB & Fullstack Web Development
@@ -22,10 +23,11 @@ const Services=()=> {
                 </div>
               </div>
               <div className="col-lg-6 order-1 order-lg-2 header-">
-                <img src={web3} className="img-fluid animated" alt="image1"></img>
+                <img src={web3} className="image_animation2" alt="image1"></img>
                 </div>
             </div>
           </div>
+        </div>
         </div>
       </section>
       </>

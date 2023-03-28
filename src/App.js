@@ -4,6 +4,7 @@ import Contact from './Contact';
 import About from './About';
 import Services from './Services';
 import Home from './Home';
+import './Style.css';
 
 import Navbar from './Navbar';
 const App=()=>

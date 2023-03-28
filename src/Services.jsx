@@ -1,5 +1,6 @@
 import React from "react";
 import web3 from './community_image1.webp';
+import './Style.css';
 const Services=()=> {
     return (
       <>

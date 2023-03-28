@@ -1,5 +1,6 @@
 import React from "react";
 import web from './kids.webp';
+import './Style.css';
 const Home=()=> 
 {
     return (

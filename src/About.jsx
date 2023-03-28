@@ -1,5 +1,6 @@
 import React from "react";
 import { ReactDOM } from "react";
+import './Style.css';
 import web1 from './Freelance_image1.webp';
 const About=()=> {
     return (
